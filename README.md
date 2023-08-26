@@ -1,4 +1,4 @@
-# Banco de dados Oficina
+# Banco de dados - Oficina
 
 
 DB_Oficina é um banco de dados fictício feito para prática dos estudos.
