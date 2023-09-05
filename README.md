@@ -8,7 +8,7 @@ DB_Oficina é um banco de dados fictício feito para prática dos estudos.
 
 * Criação do modelo lógico do Banco de dados.
 
-* Criando o database e suas tabelas utilizando comandos DML – (Data Manipulation Language Statements) - CREATE | INSERT | DESC | DROP | SHOW | USE e DML (Data Manipulation Language) — principais comandos: INSERT | UPDATE | DELETE
+* Criando o database e suas tabelas utilizando comandos DDL - (Linguagem de Definição de Dados)  CREATE | INSERT | DESC | DROP | SHOW | USE e DML (Data Manipulation Language) — principais comandos: INSERT | UPDATE | DELETE
 
 * Automatizando o Banco de dados com VIEWS | PROCEDURES | TRIGGERS 
 
